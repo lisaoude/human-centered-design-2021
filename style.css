@@ -35,14 +35,18 @@ p {
   font-size: var(--standard-size);
 }
 
-ol {
+section {
   padding-left: 2em;
 }
 
-li {
-  padding: 0.35em;
+#home p {
+  padding: 0.4em;
+  width: 6em;
+  height: auto;
   font-size: var(--standard-size);
   color: #ffffff;
+  list-style: none;
+  background-color: hotpink;
 }
 
 a {
