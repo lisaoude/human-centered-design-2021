@@ -118,7 +118,12 @@ button {
 
 /* Eigen test */
 #lisa {
-  width: 35%;
+  width: 45em;
+  background-color: chartreuse;
+}
+
+#lisa h1 {
+  padding: 0;
 }
 
 #lisa section {
@@ -185,8 +190,4 @@ button {
 
 #lisa div:nth-of-type(9) {
   background-color: #00FFA3;
-}
-
-#lisa div:nth-of-type(10) {
-  background-color: #FFFFFF;
 }
