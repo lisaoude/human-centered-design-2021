@@ -113,11 +113,6 @@ button {
   outline: 10px solid #00FFA3;
 }
 
-#home a:nth-of-type(10):focus {
-  outline: 10px solid #FFFFFF;
-}
-
-
 
 
 
