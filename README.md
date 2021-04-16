@@ -5,10 +5,8 @@ Mijn exclusive design is geheel ontworpen voor **Roger Ravelli**.
 
 
 ### Roger's scenario  
-Bedoelen we hier:
-- Een persona
-- Een storyboard met hoe de gebruiker de toepassing gebruikt
-- Weer iets anders???
+Beschrijven wat ze er uiteindelijk uit willen hebben  
+Ik ben Roger en ik wil dit en dit 
 
 ### Exclusive Design Principles  
 #### Study Situation  
