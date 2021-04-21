@@ -1,19 +1,30 @@
+const links = document.querySelectorAll('a, button');
+
 const buttonWelcome = document.querySelector('#welcome');
 const buttonDedicon = document.querySelector('#dedicon');
 const buttonGroenHandicap = document.querySelector('#groenhandicap');
 
 
+
+buttonWelcome.addEventListener('focus', (e) => {
+  const explanation = [
+    'Druk op enter voor uitleg over de website',
+  ];
+  enableSpeech(explanation);
+});
+
+
 buttonWelcome.addEventListener('click', (e) => {
   const explanation = [
     'Hoi Rosjee! Welkom op deze website.',
-    'Het voorlezen van deze tekst door ongeveer 30 seconden.',
+    'Het voorlezen van deze tekst duurt ongeveer 30 seconden.',
     'Deze website is een verbeterde versie van de website van de MaculaVereniging.',
     'Je kunt met de TAB toets door de website navigeren.',
     'Als je op ENTER drukt, kun je een stuk tekst laten voorlezen.',
-    'Veel plezier en succes op deze website.',
-    'Druk de TAB toets om verder te gaan.',
+    'Veel plezier op deze website.',
+    'Druk op de TAB toets om verder te gaan.',
   ];
-  playSchedule(explanation);
+  enableSpeech(explanation);
 });
 
 buttonDedicon.addEventListener('click', (e) => {
@@ -25,7 +36,7 @@ buttonDedicon.addEventListener('click', (e) => {
     'Ook wordt er gesproken over speciale routes en rondleidingen in botanische tuinen en dierentuinen.',
     'Als je dit artikel wilt bezoeken, kun je klikken op de blauwe knop hieronder.',
   ];
-  playSchedule(explanation);
+  enableSpeech(explanation);
 });
 
 buttonGroenHandicap.addEventListener('click', (e) => {
@@ -33,7 +44,7 @@ buttonGroenHandicap.addEventListener('click', (e) => {
     'Hoi Rosjee.',
     'Het voorlezen van deze tekst duurt ongeveer 1 minuut.',
     'Het artikel van Groen en Handicap benoemt twee wandelroutes, die ook toegankelijk zijn voor mensen die blind of slechtziend zijn.',
-    'In het artikel van Groen en Handicap staat niet zo veel informatie over de routes.',
+    'In het artikel van Groen en Handicap staat niet zo veel informatie over de routes. Beetje jammer.',
     'Ik ga daarom hier de twee routes aan je vertellen, en wat deze routes in grote lijnen inhouden.',
     'De eerste route is de Koninklijke Weg.',
     'Dit is een wandelroute van het Koninklijk Paleis Noordeinde in Den Haag, via Paleis Soestdijk, naar Paleis Het Loo in Apeldoorn.',
@@ -44,13 +55,14 @@ buttonGroenHandicap.addEventListener('click', (e) => {
     'In het artikel van Groen en Handicap staat niet zo veel,',
     'Maar als je dit artikel wilt bezoeken, kun je klikken op de rode knop hieronder.',
   ];
-  playSchedule(explanation);
+  enableSpeech(explanation);
 });
 
-function playSchedule(explanation) {
+function enableSpeech(explanation) {
   explanation.forEach((explainedPart) => {
     const speech = new SpeechSynthesisUtterance(explainedPart);
+    speech.lang = "nl-NL";
     speech.rate = 0.95;
-    speechSynthesis.speak(speech);
+    window.speechSynthesis.speak(speech);
   });
 }
