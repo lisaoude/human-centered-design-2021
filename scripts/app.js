@@ -1,11 +1,9 @@
-const links = document.querySelectorAll('a, button');
-
+// variables
 const buttonWelcome = document.querySelector('#welcome');
 const buttonDedicon = document.querySelector('#dedicon');
 const buttonGroenHandicap = document.querySelector('#groenhandicap');
 
-
-
+// welcome explanation
 buttonWelcome.addEventListener('focus', (e) => {
   const explanation = [
     'Druk op enter voor uitleg over de website',
@@ -13,12 +11,11 @@ buttonWelcome.addEventListener('focus', (e) => {
   enableSpeech(explanation);
 });
 
-
 buttonWelcome.addEventListener('click', (e) => {
   const explanation = [
     'Hoi Rosjee! Welkom op deze website.',
     'Het voorlezen van deze tekst duurt ongeveer 30 seconden.',
-    'Deze website is een verbeterde versie van de website van de MaculaVereniging.',
+    'Deze website is een verbeterde versie van een deel van de website van de MaculaVereniging.',
     'Je kunt met de TAB toets door de website navigeren.',
     'Als je op ENTER drukt, kun je een stuk tekst laten voorlezen.',
     'Veel plezier op deze website.',
@@ -27,6 +24,7 @@ buttonWelcome.addEventListener('click', (e) => {
   enableSpeech(explanation);
 });
 
+// article - dedicon
 buttonDedicon.addEventListener('click', (e) => {
   const explanation = [
     'Hoi Rosjee.',
@@ -39,6 +37,7 @@ buttonDedicon.addEventListener('click', (e) => {
   enableSpeech(explanation);
 });
 
+// article - groen handicap
 buttonGroenHandicap.addEventListener('click', (e) => {
   const explanation = [
     'Hoi Rosjee.',
@@ -58,11 +57,12 @@ buttonGroenHandicap.addEventListener('click', (e) => {
   enableSpeech(explanation);
 });
 
+// general speech function
 function enableSpeech(explanation) {
   explanation.forEach((explainedPart) => {
     const speech = new SpeechSynthesisUtterance(explainedPart);
-    speech.lang = "nl-NL";
     speech.rate = 0.95;
+    speech.pitch = 0.95;
     window.speechSynthesis.speak(speech);
   });
 }
