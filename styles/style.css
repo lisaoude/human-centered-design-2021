@@ -1,4 +1,6 @@
-/* Algemeen */
+/**********************************/
+/*             general            */
+/**********************************/
 
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap");
 
@@ -12,16 +14,13 @@
   background-color: #1C1C1C;
   color: #ffffff;
 
-  --standard-size: 1.75em;
+  --standard-size: 1em;
 }
 
 body {
-  width: 100%;
-}
-
-main {
-  padding-left: 2em;
-  width: 30%;
+  width: 20em;
+  background-color: hotpink;
+  padding: 1.5em;
 }
 
 h1 {
@@ -37,19 +36,15 @@ p {
   font-size: var(--standard-size);
 }
 
-section {
-  padding-left: 1em;
-}
 
-a {
-  color: #ffffff;
-  text-decoration: underline;
-}
-
+/**********************************/
+/*              test 3            */
+/**********************************/
 button {
   margin-top: 1em;
-  width: 6em;
-  height: 2em;
+  padding: 10px 20px;
+  width: auto;
+  height: auto;
   background-color: #ffffff;
   color: #1C1C1C;
   border-style: none;
@@ -59,13 +54,30 @@ button {
   font-weight: 600;
 }
 
-/* Home */
-#home section {
+img {
+  width: 8.5em;
+  height: auto;
+}
+
+
+/**********************************/
+/*         index test list        */
+/**********************************/
+#index section {
+  padding-left: 1em;
+}
+
+#index a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+#index section {
   display: flex;
   flex-direction: column;
 }
 
-#home a {
+#index a {
   padding: 0.4em;
   width: 6em;
   height: calc( 0.8 * var(--standard-size));
@@ -73,120 +85,6 @@ button {
   color: #ffffff;
 }
 
-#home div {
+#index div {
   width: 45%;
-}
-
-#home a:nth-of-type(1):focus {
-  outline: 10px solid #0038FF;
-}
-
-#home a:nth-of-type(2):focus {
-  outline: 10px solid #FF0000;
-}
-
-#home a:nth-of-type(3):focus {
-  outline: 10px solid #FF00E5;
-}
-
-#home a:nth-of-type(4):focus {
-  outline: 10px solid #FF9900;
-}
-
-#home a:nth-of-type(5):focus {
-  outline: 10px solid #00C2FF;
-}
-
-#home a:nth-of-type(6):focus {
-  outline: 10px solid #42FF00;
-}
-
-#home a:nth-of-type(7):focus {
-  outline: 10px solid #00FFF0;
-}
-
-#home a:nth-of-type(8):focus {
-  outline: 10px solid #FFE600;
-}
-
-#home a:nth-of-type(9):focus {
-  outline: 10px solid #00FFA3;
-}
-
-
-
-
-/* Eigen test */
-#lisa {
-  width: 45em;
-}
-
-#lisa h1 {
-  padding: 0;
-}
-
-#lisa section {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
-#lisa p {
-  font-size: calc ( 0.85 * var(--standard-size));
-  font-weight: 600;
-}
-
-#lisa p:nth-child(even) {
-  color: #ffffff;
-}
-
-#lisa p:nth-child(odd) {
-  color: #1c1c1c;
-}
-
-#lisa div {
-  margin: 1em;
-  margin-left: 0;
-  padding: 0.4em;
-  width: 6em;
-  height: 4em;
-  font-size: var(--standard-size);
-  color: #1C1C1C;
-}
-
-
-#lisa div:nth-of-type(1) {
-  background-color: #0038FF;
-}
-
-#lisa div:nth-of-type(2) {
-  background-color:#FF0000;
-}
-
-#lisa div:nth-of-type(3) {
-  background-color: #FF00E5;
-}
-
-#lisa div:nth-of-type(4) {
-  background-color:#FF9900;
-}
-
-#lisa div:nth-of-type(5) {
-  background-color: #00C2FF;
-}
-
-#lisa div:nth-of-type(6) {
-  background-color:#42FF00;
-}
-
-#lisa div:nth-of-type(7) {
-  background-color:#00FFF0;
-}
-
-#lisa div:nth-of-type(8) {
-  background-color:#FFE600;
-}
-
-#lisa div:nth-of-type(9) {
-  background-color: #00FFA3;
 }
