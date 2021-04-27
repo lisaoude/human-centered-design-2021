@@ -1,4 +1,6 @@
 //________________ VARIABLES ________________//
+const links = document.querySelectorAll('a, button');
+
 const buttonBack = document.querySelector('#back')
 const buttonToOne = document.querySelector('#overview-one')
 const buttonToTwo = document.querySelector('#overview-two')
@@ -16,6 +18,18 @@ const buttonCrowdfund = document.querySelector('#crowdfund')
 
 const buttonArticleThree = document.querySelector('#article-three');
 const buttonWebinar = document.querySelector('#webinar')
+
+
+//________________ ESC PRESS ________________//
+links.forEach((item) => {
+  item.addEventListener("keydown", (e) => {
+    if ((e.code = "Escape")) {
+      window.speechSynthesis.cancel();
+
+      return;
+    }
+  });
+});
 
 
 //________________ BACK BUTTON ________________//
@@ -61,9 +75,7 @@ if (buttonWelcome) {
 if (buttonToOne) {
   buttonToOne.addEventListener('focus', (e) => {
     const explanation = [
-      'Artikel een.',
-      'Dit artikel gaat over activiteiten in de buitenlucht.',
-      'Druk op de ENTER toets om naar dit artikel te gaan, of druk op de TAB toets om verder te navigeren.'
+      'Artikel 1: Geniet van de buitenlucht.'
     ];
     enableSpeech(explanation);
   })
@@ -73,9 +85,7 @@ if (buttonToOne) {
 if (buttonToTwo) {
   buttonToTwo.addEventListener('focus', (e) => {
     const explanation = [
-      'Artikel twee.',
-      'Dit artikel gaat over de campagne stop stargardt.',
-      'Druk op de ENTER toets om naar dit artikel te gaan, of druk op de TAB toets om verder te navigeren.'
+      'Artikel 2 : Campagne stop stargardt.'
     ];
     enableSpeech(explanation);
   })
@@ -85,9 +95,7 @@ if (buttonToTwo) {
 if (buttonToThree) {
   buttonToThree.addEventListener('focus', (e) => {
     const explanation = [
-      'Artikel drie.',
-      'Dit artikel gaat over de aankomende webinar.',
-      'Druk op de ENTER toets om naar dit artikel te gaan.',
+      'Artikel 3: Webinar 5 juni 2021.',
       'Dit is het laatste artikel op deze pagina.'
     ];
     enableSpeech(explanation);
