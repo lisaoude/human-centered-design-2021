@@ -36,7 +36,8 @@ links.forEach((item) => {
 if (buttonBack) {
   buttonBack.addEventListener('focus', (e) => {
     const explanation = [
-      'Druk op de ENTER toets als je terug wilt naar het overzicht, of druk op de TAB toets om verder te navigeren.'
+      'Terug naar het overzicht? Druk op de ENTER toets.',
+      'of verder te navigeren? Druk op de TAB toets.'
     ];
     enableSpeech(explanation);
   })
@@ -63,7 +64,8 @@ if (buttonWelcome) {
       'Deze website is een verbeterde versie van een deel van de website van de MaculaVereniging.',
       'Op deze website staan artikelen die ook op de website van de MaculaVereniging zijn verschenen.',
       'Je kunt met de TAB toets door de website navigeren.',
-      'Als je op ENTER drukt, kun je een stuk tekst laten voorlezen.',
+      'Als je op de ENTER toets drukt, kun je een stuk tekst laten voorlezen.',
+      'Als je op de ESCAPE toets drukt, stopt het voorlezen.',
       'Veel plezier op deze website.',
       'Druk op de TAB toets om verder te gaan.'
     ];
@@ -285,8 +287,9 @@ if (buttonArticleThree) {
       'Deze tekst bestaat uit 1 deel',
       'Dit artikel gaat over de aankomende webinar en begint hier.',
       ' ',
-      'Save the date! Op zaterdag 5 juni aanstaande is er weer een webinar met boeiende lezingen.',
-      'We zijn nog volop bezig met het programma, maar dokter Yara Lechanteur, oogarts in het Radboud UMC, in Nijmegen, zal een van de sprekers zijn.',
+      'Op zaterdag 5 juni aanstaande is er weer een webinar met boeiende lezingen.',
+      'We zijn nog volop bezig met het programma, maar dokter Yara Lechanteur,',
+      'oogarts in het Radboud UMC, in Nijmegen, zal 1 van de sprekers zijn.',
       'Heeft u de vorige webinar met onder andere de lezing "Kijkend naar de medische ontwikkelingen op het gebied van Macula Degeneratie" van professor dokter Camiel Boon gemist?',
       'Deze kunt u nog zien en beluisteren op de website.',
       ' ',
