@@ -14,11 +14,11 @@
   background-color: #1C1C1C;
   color: #ffffff;
 
-  --standard-size: 1em;
+  --standard-size: 2.25em;
 }
 
 body {
-  width: 22em;
+  width: 38em;
   padding: 1.5em;
 }
 
@@ -33,6 +33,11 @@ h2 {
 
 p {
   font-size: var(--standard-size);
+}
+
+.visually-hidden {
+  opacity: 0;
+  height: 0;
 }
 
 
