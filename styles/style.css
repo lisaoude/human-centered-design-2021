@@ -1,7 +1,4 @@
-/**********************************/
-/*             general            */
-/**********************************/
-
+/************** GENERAL **************/
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap");
 
 * {
@@ -27,29 +24,39 @@ h1 {
   padding: 0.5em 0;
 }
 
-h2 {
-  font-size: calc(1.25 * var(--standard-size));
-}
-
 p {
   font-size: var(--standard-size);
-}
-
-.visually-hidden {
-  opacity: 0;
-  height: 0;
+  line-height: calc(0.7 * var(--standard-size));
 }
 
 
-/**********************************/
-/*              test 3            */
-/**********************************/
+/************** NAVIGATION **************/
+nav {
+  margin-top: 3em;
+}
+
+nav > a {
+  padding: 10px 20px;
+  width: auto;
+  height: auto;
+  background-color: #FF0000;
+  color: #1C1C1C;
+  border-style: none;
+  border-radius: 10px;
+  font-family: 'Open Sans', 'helvetica neue', helvetica, arial, sans-serif;
+  font-size: var(--standard-size);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+
+/************** BUTTONS **************/
 button {
   margin: 1.5em 0;
   padding: 10px 20px;
   width: auto;
   height: auto;
-  background-color: #00C2FF;
+  background-color: #0038FF;
   color: #1C1C1C;
   border-style: none;
   border-radius: 10px;
@@ -62,36 +69,20 @@ button {
   background-color: #FF0000;
 }
 
-#article-one,
-#article-two {
-  background-color: #0038FF;
-  color: #FFFFFF;
-}
 
+/************** DIVS / SECTIONS **************/
 div {
   display: flex;
   flex-direction: column;
 }
 
-#back {
-  margin: 1.5em 0;
-  padding: 10px 20px;
-  width: 3em;
-  height: auto;
-  background-color: #FFFFFF;
-  color: #1C1C1C;
-  border-style: none;
-  border-radius: 10px;
-  font-family: 'Open Sans', 'helvetica neue', helvetica, arial, sans-serif;
-  font-size: var(--standard-size);
-  font-weight: 600;
-  text-decoration: none;
-}
 
 
-/**********************************/
-/*         index test list        */
-/**********************************/
+
+
+
+
+/************** INDEX LIST **************/
 #index section {
   padding-left: 1em;
 }
