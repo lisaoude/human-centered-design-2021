@@ -18,7 +18,7 @@ const buttonArticleThree = document.querySelector('#article-three');
 const buttonWebinar = document.querySelector('#webinar')
 
 
-//________________ NAVIGATION ________________//
+//________________ BACK BUTTON ________________//
 if (buttonBack) {
   buttonBack.addEventListener('focus', (e) => {
     const explanation = [
@@ -27,41 +27,6 @@ if (buttonBack) {
     enableSpeech(explanation);
   })
 };
-
-if (buttonToOne) {
-  buttonToOne.addEventListener('focus', (e) => {
-    const explanation = [
-      'Artikel een.',
-      'Dit artikel gaat over activiteiten in de buitenlucht.',
-      'Druk op de ENTER toets om naar dit artikel te gaan, of druk op de TAB toets om verder te navigeren.'
-    ];
-    enableSpeech(explanation);
-  })
-};
-
-if (buttonToTwo) {
-  buttonToTwo.addEventListener('focus', (e) => {
-    const explanation = [
-      'Artikel twee.',
-      'Dit artikel gaat over de campagne stop stargardt.',
-      'Druk op de ENTER toets om naar dit artikel te gaan, of druk op de TAB toets om verder te navigeren.'
-    ];
-    enableSpeech(explanation);
-  })
-};
-
-if (buttonToThree) {
-  buttonToThree.addEventListener('focus', (e) => {
-    const explanation = [
-      'Artikel drie.',
-      'Dit artikel gaat over de aankomende webinar.',
-      'Druk op de ENTER toets om naar dit artikel te gaan.',
-      'Dit is het laatste artikel op deze pagina.'
-    ];
-    enableSpeech(explanation);
-  })
-};
-
 
 
 //________________ HOME PAGE ________________//
@@ -87,6 +52,43 @@ if (buttonWelcome) {
       'Als je op ENTER drukt, kun je een stuk tekst laten voorlezen.',
       'Veel plezier op deze website.',
       'Druk op de TAB toets om verder te gaan.'
+    ];
+    enableSpeech(explanation);
+  })
+};
+
+// overview - first article
+if (buttonToOne) {
+  buttonToOne.addEventListener('focus', (e) => {
+    const explanation = [
+      'Artikel een.',
+      'Dit artikel gaat over activiteiten in de buitenlucht.',
+      'Druk op de ENTER toets om naar dit artikel te gaan, of druk op de TAB toets om verder te navigeren.'
+    ];
+    enableSpeech(explanation);
+  })
+};
+
+// overview - second article
+if (buttonToTwo) {
+  buttonToTwo.addEventListener('focus', (e) => {
+    const explanation = [
+      'Artikel twee.',
+      'Dit artikel gaat over de campagne stop stargardt.',
+      'Druk op de ENTER toets om naar dit artikel te gaan, of druk op de TAB toets om verder te navigeren.'
+    ];
+    enableSpeech(explanation);
+  })
+};
+
+// overview - third article
+if (buttonToThree) {
+  buttonToThree.addEventListener('focus', (e) => {
+    const explanation = [
+      'Artikel drie.',
+      'Dit artikel gaat over de aankomende webinar.',
+      'Druk op de ENTER toets om naar dit artikel te gaan.',
+      'Dit is het laatste artikel op deze pagina.'
     ];
     enableSpeech(explanation);
   })
