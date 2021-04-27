@@ -93,6 +93,11 @@ button {
   font-size: calc(1.25 * var(--standard-size));
 }
 
+img {
+  width: 20em;
+  height: auto;
+}
+
 
 /************** ARTICLES **************/
 article {
