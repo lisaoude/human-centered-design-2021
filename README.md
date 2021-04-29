@@ -2,11 +2,11 @@
 
 ---
 
-Als ik tijdens dit vak 1 ding heb geleerd is het wel dat **screenreaders verschrikkelijke dingen zijn, die nooit echt doen wat je wilt**. Tuurlijk, het is super goed dat ze er zijn, maar de manier waarop ze werken is mij tot op de dag van vandaag een mysterie. De ene keer leest 'ie alleen dit, dan weer dat - en dat allemaal op dezelfde pagina. Ik kan zelfs verdwaald raken op een pagina als ik de screenreader gebruik, en dan kan ik nog 'gewoon' de pagina zien. 
+Als ik tijdens dit vak 1 ding heb geleerd is het wel dat **_screenreaders verschrikkelijke dingen zijn, die nooit echt doen wat je wilt_**. Tuurlijk, het is super goed dat ze er zijn, maar de manier waarop ze werken is mij tot op de dag van vandaag een mysterie. De ene keer leest 'ie alleen dit, dan weer dat - en dat allemaal op dezelfde pagina. Ik kan zelfs verdwaald raken op een pagina als ik de screenreader gebruik, en dan kan ik nog 'gewoon' de pagina zien. 
 
 </br>
 
-Om elke week mijn gebruiker weer zó ontzettend te zien worstelen met onze testen, door die screenreader - het heeft echt m'n hart gebroken. Telkens verontschuldigde hij zich: _'Sorry, ik doe het fout.'_, _'Dat lukt me gewoon echt niet.'_. Ik kon wel gillen. Nee Roger, nee nee nee. Het ligt **niet** aan jou, maar aan ons. Wij als developers hebben jou gewoonweg gefaald. 
+Om elke week mijn gebruiker weer zó ontzettend te zien worstelen met onze testen, door die screenreader - het heeft echt m'n hart gebroken. Telkens verontschuldigde hij zich: _'Sorry, ik doe het fout.'_, _'Dat lukt me gewoon echt niet.'_. Ik kon wel gillen. Nee Roger, nee nee nee. Het ligt **_niet_** aan jou, maar aan ons. Wij als developers hebben jou gewoonweg gefaald. 
 
 </br>
 
@@ -18,7 +18,7 @@ Deze worsteling met de screenreader trok elke week weer meer mijn aandacht. Het 
 <!-- Over de gebruiker -->
 
 ## Mijn gebruiker  
-Mijn exclusive design voor de oplossing van dit probleem is geheel ontworpen voor **Roger Ravelli**.  
+Mijn exclusive design voor de oplossing van dit probleem is geheel ontworpen voor **_Roger Ravelli_**.  
 
 </br>
 
