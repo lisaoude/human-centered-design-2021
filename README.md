@@ -53,6 +53,8 @@ _Alle punten zijn ook terug te vinden in de Wiki, bij [Testverslag week 1](https
 ## :dart: Exclusive Design Principles  
 _[Alle Exclusive Design Principles kunnen ook hier worden teruggevonden](https://exclusive-design.vasilis.nl/)_
 
+</br>
+
 <!-- Study Situation -->
 ### :mag: Study Situation  
 #### Wat?
