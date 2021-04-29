@@ -2,10 +2,6 @@
 
 ---
 
-_Al mijn testplannen, notulen, testverslagen en concepten zijn te vinden in [de Wiki](https://github.com/lisaoude/human-centered-design-2021/wiki)._
-
----
-
 <!-- Screenreader hel -->
 ## :fire::computer::speech_balloon::fire: De screenreader hel
 
@@ -76,6 +72,8 @@ Mijn eindproduct is geheel ontworpen voor de situatie die is opgebouwd met de vo
 
 </br>
 
+---
+
 <!-- Ignore Conventions -->
 ### :no_entry: Ignore Conventions  
 #### Huh?
@@ -84,25 +82,27 @@ Negeer de standaard regels! Uit het raam ermee! Omdenken!
 </br>
 
 #### In mijn eindproduct
-**Kleuren**
+**Kleuren**  
 Binnen mijn eindproduct maak ik gebruik van een aantal kleuren die ik [het getest met Roger](https://github.com/lisaoude/human-centered-design-2021/wiki/%E2%9C%A8-Testverslag-%232). Ik gebruik kleuren die goed werken voor Roger, maar volgens het W3C een complete no-go zouden moeten zijn.  
 
 </br>
 
-**Plaatsing & Vergroting**
+**Plaatsing & Vergroting**  
 Daarnaast plaats ik alles aan de linkerkant van het scherm en is alles standaard zo'n 200% ingezoomd. Door alles aan de linkerkant van het scherm te plaatsen, kan Roger met de rest visus in zijn linkeroog focussen op 1 plek. Door alles 200% in te zoomen, zijn de letters groot en knoppen opvallend en makkelijk te vinden.
 
 </br>
 
-**Zicht ter ondersteuning**
+**Zicht ter ondersteuning**  
 Waar het normaliter op een website voor 90% draait om wat er te zien is, is daar binnen mijn eindproduct geen sprake van. Roger is aan het overstappen van een combinatie tussen zicht & geluid, naar alleen geluid. Mijn eindproduct overbrugt deze stap, omdat zicht hier puur ter ondersteuning is toegevoegd. Zicht is niet nodig om door de pagina te kunnen navigeren en deze te kunnen gebruiken, omdat alles op de pagina zijn eigen instructie heeft en alles wordt voorgelezen aan Roger.
 
 </br>
 
-**Navigatie**
+**Navigatie**  
 Om soepel door een reguliere pagina te kunnen navigeren, is het gebruik van een muis bijna noodzakelijk. Binnen mijn eindproduct is dit echter niet zo: de muis is geheel overbodig geworden. Voor de optimale ervaring, is een toetsenbord juist het hoofdmiddel om te navigeren.
 
 </br>
+
+---
 
 <!-- Prioritise Identity  -->
 ### :adult::woman: Prioritise Identity  
@@ -111,7 +111,7 @@ Hoe komen Roger's identiteit en mijn identiteit terug in het eindproduct?
 
 </br>
 
-**Roger's identiteit**
+**Roger's identiteit**  
 In mijn eindproduct is allereerst een heel belangrijk stukje Roger terug te vinden: zijn naam wordt goed uitgesproken. Andere screenreaders zeiden zijn naam vaker wel dan niet verkeerd, waardoor het 'Rodger' werd in plaats van 'Rosjee'.
 
 </br>
@@ -124,10 +124,12 @@ Verder is Roger terug te vinden in de content in mijn eindproduct: de content va
 
 </br>
 
-**Mijn identiteit**
+**Mijn identiteit**  
 Dit eindproducuct is voortgekomen uit een ontzettend gevoel van compassie, pure frustratie en 'dit **MOET** toch beter kunnen?'. Ik heb er dan ook alles aan gedaan en zoveel mogelijk liefde gegeven aan de monotone Chrome mevrouw om het geheel zo prettig mogelijk te kunnen maken voor Roger. Er is ook een stukje van mij terug te vinden in de poging tot het eindproduct nog een beetje aantrekkelijk voor het oog te maken, maar ook in de consistentie, structuur en overzicht - drie punten waar ik zelf altijd veel baat bij heb en zelfs gelukkig van word.
 
 </br>
+
+---
 
 <!-- Add Nonsense -->
 ### :crystal_ball: Add Nonsense  
@@ -154,7 +156,7 @@ Ik wilde niet te veel nonsense toevoegen om het geheel duidelijk en overzichteli
 <!-- Testen -->
 ## :mag: Testen
 
-Al mijn testplannen, notulen en testverslagen zijn terug te vinden in de [Wiki](https://github.com/lisaoude/human-centered-design-2021/wiki)
+Al mijn testplannen, notulen en testverslagen zijn terug te vinden in de [Wiki](https://github.com/lisaoude/human-centered-design-2021/wiki).
 
 </br>
 
@@ -165,6 +167,5 @@ Al mijn testplannen, notulen en testverslagen zijn terug te vinden in de [Wiki](
 
 [Mijn eindproduct is hier te vinden](https://lisaoude.github.io/human-centered-design-2021/overzicht)
 
-</br>
 
 ---
