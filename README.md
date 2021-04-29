@@ -29,7 +29,10 @@ Roger is 54 jaar. Hij houdt van hardlopen, beeldhouwen en lees graag een boek. V
 Dertien jaar geleden werd er bij Roger maculadegeneratie vastgesteld. Dit is een oogaandoening waarbij de kegeltjes in de gele vlek (de macula lutea) in het centrale gedeelte van het netvlies van het oog afsterven. Hierdoor neemt de gezichtsscherpte af, maar er blijft wel sprake van rest visus: aan de zijkanten van het oog behoudt men zicht.  
 Hieronder is te zien hoe maculadegeneratie zich uit bij Roger.
 
-![hcd_macula_roger](https://user-images.githubusercontent.com/57795294/116569236-7ce34100-a909-11eb-8b12-6ad46eb2a314.png)
+![hcd_macula_roger](https://user-images.githubusercontent.com/57795294/116569236-7ce34100-a909-11eb-8b12-6ad46eb2a314.png)  
+
+In Roger's eigen woorden: 
+> ‘Ik zie de de vorm van de kerk wel, maar de klok niet’
 
 </br>
 
