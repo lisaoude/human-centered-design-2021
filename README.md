@@ -25,16 +25,20 @@ Roger is 54 jaar. Hij houdt van hardlopen, beeldhouwen en lees graag een boek. V
 
 </br>
 
-Tien jaar geleden werd er bij Roger maculadegeneratie vastgesteld. Dit is een oogaandoening waarbij de kegeltjes in de gele vlek (de macula lutea) in het centrale gedeelte van het netvlies van het oog afsterven. Hierdoor neemt de gezichtsscherpte af, maar er blijft wel sprake van restvisus: aan de zijkanten van het oog behoudt men zicht. Hieronder is te zien hoe maculadegeneratie zich uit bij Roger.
+Dertien jaar geleden werd er bij Roger maculadegeneratie vastgesteld. Dit is een oogaandoening waarbij de kegeltjes in de gele vlek (de macula lutea) in het centrale gedeelte van het netvlies van het oog afsterven. Hierdoor neemt de gezichtsscherpte af, maar er blijft wel sprake van rest visus: aan de zijkanten van het oog behoudt men zicht.  
+Hieronder is te zien hoe maculadegeneratie zich uit bij Roger.
 
 ![hcd_macula_roger](https://user-images.githubusercontent.com/57795294/116569236-7ce34100-a909-11eb-8b12-6ad46eb2a314.png)
 
-
 </br>
 
-### :man_with_probing_cane: Roger's scenario  
-Beschrijven wat ze er uiteindelijk uit willen hebben  
-Ik ben Roger en ik wil dit en dit 
+### :computer::speech_balloon: Roger's scenario  
+_Alle punten zijn ook terug te vinden in de Wiki, bij [Testverslag week 1](https://github.com/lisaoude/human-centered-design-2021/wiki/%E2%9C%A8-Testverslag#wat-heb-ik-geleerd)._
+
+Roger wilt graag weer data - wat dat dan ook mag zijn - kunnen 'zien'. Hij wilt kunnen begrijpen wat er op een website staat, het overzicht behouden en weten wat hij kan verwachten.  
+Roger wilt graag informatie zien op een donkere achtergrond, wit is voor hem verblindend. Hierbij kan hij felle kleuren nog goed onderscheiden van de donkere achtergrond.  
+Als Roger zijn computer gebruikt, gebruikt hij een combinatie van zijn toetsenbord, muis en screenreader. Het liefst wilt hij zijn muis niet meer hoeven gebruiken.  
+Omdat Roger nog iets kan zien met zijn linkeroog, is het fijn als alle content links staat. Op deze manier kan hij zich volledig focussen op links.
 
 </br>
 
