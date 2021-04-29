@@ -19,12 +19,12 @@ Deze worsteling met de screenreader trok elke week weer meer mijn aandacht. Het 
 ---
 <!-- Over de gebruiker -->
 
-## Mijn gebruiker  
+## :adult: Mijn gebruiker  
 Mijn exclusive design voor de oplossing van dit probleem is geheel ontworpen voor **_Roger Ravelli_**.  
 
 </br>
 
-### Roger's scenario  
+### :man_with_probing_cane: Roger's scenario  
 Beschrijven wat ze er uiteindelijk uit willen hebben  
 Ik ben Roger en ik wil dit en dit 
 
@@ -33,18 +33,18 @@ Ik ben Roger en ik wil dit en dit
 ---
 
 <!--  Exclusive Design Principles -->
-## Exclusive Design Principles  
-### Study Situation  
+## :dart: Exclusive Design Principles  
+### :mag: Study Situation  
 De situatie  
 
-### Ignore conventions  
+### :no_entry: Ignore conventions  
 Negeer standaard regels  
 
-### Prioritise identity  
+### :adult::woman: Prioritise identity  
 - Identiteit van gebruiker  
 - Identiteit van ontwerper  
 
-### Add nonsense  
+### :crystal_ball: Add nonsense  
 Niet alleen functioneel  
 
 </br>
