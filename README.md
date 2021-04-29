@@ -1,37 +1,58 @@
-# hier komt een vette titel zodra ik een solid concept heb
+# Screenreader 2.0
+
+---
+
+Als ik tijdens dit vak 1 ding heb geleerd is het wel dat **screenreaders verschrikkelijke dingen zijn, die nooit echt doen wat je wilt**. Tuurlijk, het is super goed dat ze er zijn, maar de manier waarop ze werken is mij tot op de dag van vandaag een mysterie. De ene keer leest 'ie alleen dit, dan weer dat - en dat allemaal op dezelfde pagina. Ik kan zelfs verdwaald raken op een pagina als ik de screenreader gebruik, en dan kan ik nog 'gewoon' de pagina zien. 
+
+</br>
+
+Om elke week mijn gebruiker weer zó ontzettend te zien worstelen met onze testen, door die screenreader - het heeft echt m'n hart gebroken. Telkens verontschuldigde hij zich: _'Sorry, ik doe het fout.'_, _'Dat lukt me gewoon echt niet.'_. Ik kon wel gillen. Nee Roger, nee nee nee. Het ligt **niet** aan jou, maar aan ons. Wij als developers hebben jou gewoonweg gefaald. 
+
+</br>
+
+Deze worsteling met de screenreader trok elke week weer meer mijn aandacht. Het probleem lag niet bij Roger, die zijn werk niet meer kan doen omdat zijn ogen, maar boven al de technologie hem in de steek laat. De technologie is hier het probleem en wel het probleem dat ik ga oplossen.
+
+</br>
+
+---
+<!-- Over de gebruiker -->
 
 ## Mijn gebruiker  
-Mijn exclusive design is geheel ontworpen voor **Roger Ravelli**.  
+Mijn exclusive design voor de oplossing van dit probleem is geheel ontworpen voor **Roger Ravelli**.  
 
+</br>
 
 ### Roger's scenario  
 Beschrijven wat ze er uiteindelijk uit willen hebben  
 Ik ben Roger en ik wil dit en dit 
 
-### Exclusive Design Principles  
-#### Study Situation  
+</br>
+
+---
+
+<!--  Exclusive Design Principles -->
+## Exclusive Design Principles  
+### Study Situation  
 De situatie  
 
-#### Ignore conventions  
+### Ignore conventions  
 Negeer standaard regels  
 
-#### Prioritise identity  
+### Prioritise identity  
 - Identiteit van gebruiker  
 - Identiteit van ontwerper  
 
-#### Add nonsense  
+### Add nonsense  
 Niet alleen functioneel  
 
+</br>
 
-<!-- Maak verschillende ontwerpen, versies en varianten van je opdracht. Experimenteer met verschillende vormen van interactie en vormgeving. Wat werkt goed? Wat werkt niet goed?
+---
 
-Beschrijf je mens met een User Scenario.
+<!-- Conclusie -->
+## Conclusie
+Leerdoelen & criteria
 
-Test je ideeen en ontwerp 3 keer met jouw mens. Verbeter je ontwerp op basis van de feedback die je hebt gekregen uit de tests. Documenteer de testen goed.
-
-Leg de exclusive design principles uit en beschrijf hoe je die hebt toegepast.
-
-Zorg dat je voor de beoordeling in je Readme (of wiki) een conclusie schrijft waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is je bewijsvoering voor het vak. -->
 
 <!-- ##
 
