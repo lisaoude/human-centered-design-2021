@@ -34,18 +34,47 @@ Ik ben Roger en ik wil dit en dit
 
 <!--  Exclusive Design Principles -->
 ## :dart: Exclusive Design Principles  
+
+<!-- Study Situation -->
 ### :mag: Study Situation  
+#### Wat?
 De situatie  
 
-### :no_entry: Ignore conventions  
+</br>
+
+#### In mijn eindproduct
+
+</br>
+
+<!-- Ignore Conventions -->
+### :no_entry: Ignore Conventions  
+#### Huh?
 Negeer standaard regels  
 
-### :adult::woman: Prioritise identity  
+</br>
+
+#### In mijn eindproduct
+
+</br>
+
+<!-- Prioritise Identity  -->
+### :adult::woman: Prioritise Identity  
+#### ???
 - Identiteit van gebruiker  
 - Identiteit van ontwerper  
 
-### :crystal_ball: Add nonsense  
+</br>
+
+</br>
+
+<!-- Add Nonsense -->
+### :crystal_ball: Add Nonsense  
+#### Heh?
 Niet alleen functioneel  
+
+</br>
+
+#### In mijn eindproduct
 
 </br>
 
