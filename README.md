@@ -2,7 +2,7 @@
 
 ---
 
-## De screenreader hel
+## :fire::computer::speech_balloon::fire:De screenreader hel
 
 Als ik tijdens dit vak 1 ding heb geleerd is het wel dat **_screenreaders verschrikkelijke dingen zijn, die nooit echt doen wat je wilt_**. Tuurlijk, het is super goed dat ze er zijn, maar de manier waarop ze werken is mij tot op de dag van vandaag een mysterie. De ene keer leest 'ie alleen dit, dan weer dat - en dat allemaal op dezelfde pagina. Ik kan zelfs verdwaald raken op een pagina als ik de screenreader gebruik, en dan kan ik nog 'gewoon' de pagina zien. 
 
@@ -21,6 +21,14 @@ Deze worsteling met de screenreader trok elke week weer meer mijn aandacht. Het 
 
 ## :adult: Mijn gebruiker  
 Mijn exclusive design voor de oplossing van dit probleem is geheel ontworpen voor **_Roger Ravelli_**.  
+Roger is 54 jaar. Hij houdt van hardlopen, beeldhouwen en lees graag een boek. Verder is hij fan van U2, Simple Minds en ook Reggae vindt hij leuk. Roger was tot maart 2021 werkzaam als Adviseur Duurzame Energie bij de Rijksdienst voor Ondernemend Nederland.  
+
+</br>
+
+Tien jaar geleden werd er bij Roger maculadegeneratie vastgesteld. Dit is een oogaandoening waarbij de kegeltjes in de gele vlek (de macula lutea) in het centrale gedeelte van het netvlies van het oog afsterven. Hierdoor neemt de gezichtsscherpte af, maar er blijft wel sprake van restvisus: aan de zijkanten van het oog behoudt men zicht. Hieronder is te zien hoe maculadegeneratie zich uit bij Roger.
+
+![hcd_macula_roger](https://user-images.githubusercontent.com/57795294/116568653-f0388300-a908-11eb-87bf-58e80eaa5ca9.png)
+
 
 </br>
 
