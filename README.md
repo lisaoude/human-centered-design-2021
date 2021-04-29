@@ -2,6 +2,8 @@
 
 ---
 
+## De screenreader hel
+
 Als ik tijdens dit vak 1 ding heb geleerd is het wel dat **_screenreaders verschrikkelijke dingen zijn, die nooit echt doen wat je wilt_**. Tuurlijk, het is super goed dat ze er zijn, maar de manier waarop ze werken is mij tot op de dag van vandaag een mysterie. De ene keer leest 'ie alleen dit, dan weer dat - en dat allemaal op dezelfde pagina. Ik kan zelfs verdwaald raken op een pagina als ik de screenreader gebruik, en dan kan ik nog 'gewoon' de pagina zien. 
 
 </br>
