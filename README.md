@@ -35,10 +35,10 @@ Hieronder is te zien hoe maculadegeneratie zich uit bij Roger.
 ### :computer::speech_balloon: Roger's scenario  
 _Alle punten zijn ook terug te vinden in de Wiki, bij [Testverslag week 1](https://github.com/lisaoude/human-centered-design-2021/wiki/%E2%9C%A8-Testverslag#wat-heb-ik-geleerd)._
 
-Roger wilt graag weer data - wat dat dan ook mag zijn - kunnen 'zien'. Hij wilt kunnen begrijpen wat er op een website staat, het overzicht behouden en weten wat hij kan verwachten.  
-Roger wilt graag informatie zien op een donkere achtergrond, wit is voor hem verblindend. Hierbij kan hij felle kleuren nog goed onderscheiden van de donkere achtergrond.  
-Als Roger zijn computer gebruikt, gebruikt hij een combinatie van zijn toetsenbord, muis en screenreader. Het liefst wilt hij zijn muis niet meer hoeven gebruiken.  
-Omdat Roger nog iets kan zien met zijn linkeroog, is het fijn als alle content links staat. Op deze manier kan hij zich volledig focussen op links.
+- Roger wilt graag weer data - wat dat dan ook mag zijn - kunnen 'zien'. Hij wilt kunnen begrijpen wat er op een website staat, het overzicht behouden en weten wat hij kan verwachten. 
+- Roger wilt graag informatie zien op een donkere achtergrond, wit is voor hem verblindend. Hierbij kan hij felle kleuren nog goed onderscheiden van de donkere achtergrond. 
+- Als Roger zijn computer gebruikt, gebruikt hij een combinatie van zijn toetsenbord, muis en screenreader. Het liefst wilt hij zijn muis niet meer hoeven gebruiken. 
+- Omdat Roger nog iets kan zien met zijn linkeroog, is het fijn als alle content links staat. Op deze manier kan hij zich volledig focussen op links.
 
 </br>
 
