@@ -32,7 +32,7 @@ Hieronder is te zien hoe maculadegeneratie zich uit bij Roger.
 ![hcd_macula_roger](https://user-images.githubusercontent.com/57795294/116569236-7ce34100-a909-11eb-8b12-6ad46eb2a314.png)  
 
 In Roger's eigen woorden: 
-> ‘Ik zie de de vorm van de kerk wel, maar de klok niet’
+> ‘Ik zie de vorm van de kerk wel, maar de klok niet’
 
 </br>
 
