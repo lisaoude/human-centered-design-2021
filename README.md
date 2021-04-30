@@ -130,7 +130,7 @@ Verder is Roger terug te vinden in de content in mijn eindproduct: de content va
 </br>
 
 **Mijn identiteit**  
-Dit eindproducuct is voortgekomen uit een ontzettend gevoel van compassie, pure frustratie en 'dit **MOET** toch beter kunnen?'. Ik heb er dan ook alles aan gedaan en zoveel mogelijk liefde gegeven aan de monotone Chrome mevrouw om het geheel zo prettig mogelijk te kunnen maken voor Roger. Er is ook een stukje van mij terug te vinden in de poging tot het eindproduct nog een beetje aantrekkelijk voor het oog te maken, maar ook in de consistentie, structuur en overzicht - drie punten waar ik zelf altijd veel baat bij heb en zelfs gelukkig van word.
+Dit eindproduct is voortgekomen uit een ontzettend gevoel van compassie, pure frustratie en 'dit **MOET** toch beter kunnen?'. Ik heb er dan ook alles aan gedaan en zoveel mogelijk liefde gegeven aan de monotone Chrome mevrouw om het geheel zo prettig mogelijk te kunnen maken voor Roger. Er is ook een stukje van mij terug te vinden in de poging tot het eindproduct nog een beetje aantrekkelijk voor het oog te maken, maar ook in de consistentie, structuur en overzicht - drie punten waar ik zelf altijd veel baat bij heb en zelfs gelukkig van word.
 
 </br>
 
